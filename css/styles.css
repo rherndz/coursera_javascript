@@ -58,3 +58,7 @@
     border-radius: 2em;
     background-color: #fff;
 }
+
+figure{
+    background-image: url(images\resultado.png);
+}
